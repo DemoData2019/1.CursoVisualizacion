@@ -1,4 +1,4 @@
-# Visualzación en R y Python
+# Visualización en R y Python
 
 La finalidad última de todo proceso de generación de conocimiento, es la comunicación de éste y su uso como apoyo al proceso
 de toma de decisiones. La visualización de los resultados en el contexto de generación de conocimiento a partir de datos juega
